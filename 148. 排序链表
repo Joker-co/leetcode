@@ -1,8 +1,9 @@
+'''
 # 148. 排序链表
 # 时间复杂度要求O(nlogn)
 # 使用归并排序
 # 难点在于链表为单向链表，索引节点时间复杂度为O(n)
-
+'''
 
 class Solution:
     def sortList(self, head: ListNode) -> ListNode:
